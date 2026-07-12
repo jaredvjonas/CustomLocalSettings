@@ -399,3 +399,7 @@ FodyWeavers.xsd
 
 # Stray Windows reserved-device file from shell redirects (e.g. `> nul`)
 nul
+
+# Local Claude Code config and build/release artifacts
+.claude/
+*.zip
