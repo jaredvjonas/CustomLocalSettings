@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Stray Windows reserved-device file from shell redirects (e.g. `> nul`)
+nul
